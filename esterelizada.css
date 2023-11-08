@@ -1,0 +1,118 @@
+.Osibel{
+    height: 250px;
+    width: 250px;
+    border-radius: 3rem;
+  
+}
+
+.box-1{
+    height: 250px;
+    width: 250px;
+    border-radius: 3rem;
+    
+}
+
+.alison{
+    height: 250px;
+    width: 250px;
+    border-radius: 3rem;
+
+}
+
+.felix{
+    width: 250px;
+    height: 250px;
+    border-radius: 3rem;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform:uppercase ;
+    font-size: 60px;
+    color: #ffffff;
+    background-color: rgb(0, 75, 173);
+    padding: 30px;
+    font-family: arial;
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana;
+}
+
+.title{
+    margin-bottom: 40px;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    
+}
+
+.conteainer{
+background: url(pexels-eberhard-grossgasteiger-572897.jpg)no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+.container-2{
+    background-color: rgb(0, 75, 173);
+}
+
+.container-3{
+    background:url(pexels-felix-mittermeier-956981.jpg)no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.container-4{
+    background-color: rgb(0, 75, 173);
+
+}
+
+.link{
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid #000000;
+    color: #fff;
+    text-decoration: none;
+    background: transparent;
+    border-radius: 3rem;
+}
+
+
+.Logo{
+    width: 400px;
+    height: 230px;
+    border-radius: 3rem;
+}
+
+.text{
+    margin-bottom: 40px;
+    font-size: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    transform: translate(-10%,30%);
+}

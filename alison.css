@@ -1,0 +1,28 @@
+.btn{
+    height: 400px;
+    width: 500px;
+    border-radius: 3rem;
+}
+
+.btn{
+    transform: translate(60%,-10%);
+    border-style: solid;
+    border-color: black;
+}
+
+.text{
+    transform: translate(3%,-15%);
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    
+}
+
+.box{
+    background: url(pexels-cat-crawford-1488401.jpg)no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px;
+}
